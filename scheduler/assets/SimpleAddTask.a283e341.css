@@ -1,0 +1,4 @@
+
+.grid-rows-6[data-v-2b93290c] {
+    grid-template-rows: repeat(6, minmax(0, 1fr));
+}
